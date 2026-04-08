@@ -3,12 +3,13 @@
   <sup>Special thanks to:</sup>
   <br>
   <br>
-  <a href="https://go.warp.dev/reference">
-    <img alt="Warp sponsorship" width="400" src="./appicon/Warp-Github-LG-01.png">
+  
+  <a href="https://screensage.pro/" target="_blank">
+    <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
   <br>
-  <a href="https://go.warp.dev/reference"><b>Warp, the intelligent terminal for developers!</b></a><br>
-  <a href="https://go.warp.dev/reference">Available for MacOS, Linux, & Windows</a><br><br>
+  <a href="https://screensage.pro/">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a>
+  <br><br>
 
 </div>
 <hr>
@@ -78,8 +79,8 @@ Quick Reference
   <sup>特别感谢：</sup>
   <br>
   <p>
-    <a href="https://go.warp.dev/reference">
-      <img alt="Warp sponsorship" width="230" src="https://jaywcjlove.github.io/sponsor/Warp-Github-LG-01.png"><br>
+    <a href="https://screensage.pro/" target="_blank">
+      <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png"><br>
       <b>Warp, the intelligent terminal for developers!</b><br/>
       Available for MacOS, Linux, & Windows<br/>
     </a>
@@ -475,7 +476,7 @@ Quick Reference
 <a href="https://github.com/larry-xue" title="yujian"><img src="https://avatars.githubusercontent.com/u/48818060?v=4" width="42;" alt="yujian"/></a>
 <a href="https://github.com/leauny" title="leauny"><img src="https://avatars.githubusercontent.com/u/42369176?v=4" width="42;" alt="leauny"/></a>
 <a href="https://github.com/liliangrong777" title="liliangrong777"><img src="https://avatars.githubusercontent.com/u/58727146?v=4" width="42;" alt="liliangrong777"/></a>
-<a href="https://github.com/qiukuip" title="qiukuip | 秋葵Pie"><img src="https://avatars.githubusercontent.com/u/44923922?v=4" width="42;" alt="qiukuip | 秋葵Pie"/></a>
+<a href="https://github.com/qiukuip" title="qiukuip | 秋葵笔记"><img src="https://avatars.githubusercontent.com/u/44923922?v=4" width="42;" alt="qiukuip | 秋葵笔记"/></a>
 <a href="https://github.com/childeyouyu" title="youyu"><img src="https://avatars.githubusercontent.com/u/89082776?v=4" width="42;" alt="youyu"/></a>
 <a href="https://github.com/chyok" title="chyok"><img src="https://avatars.githubusercontent.com/u/32629225?v=4" width="42;" alt="chyok"/></a>
 <a href="https://github.com/lijc210" title="cizai"><img src="https://avatars.githubusercontent.com/u/10651081?v=4" width="42;" alt="cizai"/></a>

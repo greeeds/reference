@@ -8,8 +8,15 @@
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
   <br>
-  <a href="https://screensage.pro/">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a>
+  <a href="https://screensage.pro/">ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</a>
   <br><br>
+
+  <a href="https://github.com/Doloffer-g/guide">
+    <img alt="doloffer sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/doloffer.jpg">
+  </a>
+  <br>
+  <a href="https://github.com/Doloffer-g/guide"><b>DolOffer - 一站式数字订阅充值平台</b></a><br>
+  <a href="https://doloffer.com">主营 GPT、Claude 等 AI 多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧</a><br><br>
 
 </div>
 <hr>
@@ -39,6 +46,7 @@ Quick Reference
 非常感谢一直以来支持我开源项目的朋友们！如果您认可我的工作，欢迎通过 [赞助](https://wangchujiang.com/#/sponsor)<!--rehype:target=_blank--> 我或下载并使用我开发的 [macOS 应用](https://wangchujiang.com/#/app)<!--rehype:target=_blank--> 来支持我。以下是我个人独立开发的 macOS 应用列表：
 
 <p style="display: inline-block">
+  <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6766860898" title="Zipora: Zip/RAR/7Z Unarchiver"><img alt="Zipora: Zip/RAR/7Z Unarchiver" height="52" src="./appicon/zipora.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" src="./appicon/scap.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" src="./appicon/screen-test.png"></a>
   <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" src="./appicon/deskmark.png"></a>
@@ -80,9 +88,20 @@ Quick Reference
   <br>
   <p>
     <a href="https://screensage.pro/" target="_blank">
-      <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png"><br>
-      <b>Warp, the intelligent terminal for developers!</b><br/>
-      Available for MacOS, Linux, & Windows<br/>
+      <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
+      <!--rehype:style=width: 230px;-->
+      <br>
+      <b>ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</b>
+    </a>
+    <!--rehype:style=width: 230px;font-size: 14px;-->
+    <br/>
+    <br/>
+    <a href="https://doloffer.com/" target="_blank">
+      <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/doloffer.jpg">
+      <!--rehype:style=width: 230px;-->
+      <br>
+      <b>DolOffer - 一站式数字订阅充值平台</b><br/>
+      主营 GPT、Claude 等 AI 多类数字服务会员正版订阅，9 折优惠码 AI8888，极速发货，售后无忧<br/>
     </a>
     <!--rehype:style=width: 230px;font-size: 14px;-->
   </p>
@@ -462,7 +481,7 @@ Quick Reference
 <a href="https://github.com/Kisa-Dong" title="Kisa-Dong"><img src="https://avatars.githubusercontent.com/u/84782008?v=4" width="42;" alt="Kisa-Dong"/></a>
 <a href="https://github.com/Jovins" title="Jovins"><img src="https://avatars.githubusercontent.com/u/17738992?v=4" width="42;" alt="Jovins"/></a>
 <a href="https://github.com/eeeeeio" title="EEEEE"><img src="https://avatars.githubusercontent.com/u/20723545?v=4" width="42;" alt="EEEEE"/></a>
-<a href="https://github.com/auroraslot" title="irony"><img src="https://avatars.githubusercontent.com/u/48817882?v=4" width="42;" alt="irony"/></a>
+<a href="https://github.com/auroraslot" title="congruity"><img src="https://avatars.githubusercontent.com/u/48817882?v=4" width="42;" alt="congruity"/></a>
 <a href="https://github.com/jackyrwj" title="jackyrwj"><img src="https://avatars.githubusercontent.com/u/32791282?v=4" width="42;" alt="jackyrwj"/></a>
 <a href="https://github.com/jlchen5" title="J.Chen"><img src="https://avatars.githubusercontent.com/u/61578993?v=4" width="42;" alt="J.Chen"/></a>
 <a href="https://github.com/jldxpm" title="Peng Min"><img src="https://avatars.githubusercontent.com/u/128905630?v=4" width="42;" alt="Peng Min"/></a>
